@@ -1,0 +1,24 @@
+article {
+  border-radius: 15%;
+  padding: 1vw;
+  margin-bottom: 1vw;
+  text-align: center;
+  line-height: 19px;
+}
+
+article img {
+  width: 100%;
+}
+
+article h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(104, 187, 215);
+  line-height: 30px;
+}
+
+article p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: x-large;
+  color: rgb(104, 187, 215);
+  line-height: 40px;
+}
