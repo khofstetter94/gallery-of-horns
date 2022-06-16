@@ -1,6 +1,6 @@
 # Gallery of Horns
 
-Number and name of feature:Feature #1: Display images
+Number and name of feature: Display images
 
 Estimate of time needed to complete: 1 hour
 
@@ -10,7 +10,7 @@ Finish time: 4:30PM
 
 Actual time needed to complete: 50 minutes
 
-Number and name of feature: Feature #2: Allow users to vote for their favorite beast
+Number and name of feature: Allow users to vote for their favorite beast
 
 Estimate of time needed to complete: 1 hours
 
@@ -20,7 +20,7 @@ Finish time: 5:10PM
 
 Actual time needed to complete: 30 minutes
 
-Number and name of feature: Feature 3: Bootstrap
+Number and name of feature: Bootstrap
 
 Estimate of time needed to complete: 1 hour
 
@@ -29,3 +29,13 @@ Start time: 5:30PM
 Finish time: 6:30PM
 
 Actual time needed to complete: 1 hour
+
+Number and name of feature: Display a Modal
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 2:20PM
+
+Finish time: 5:05PM
+
+Actual time needed to complete: 2 hours & 45 minutes

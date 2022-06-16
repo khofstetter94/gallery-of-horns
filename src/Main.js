@@ -1,22 +1,19 @@
 import React from 'react';
 import HornedBeast from './HornedBeast';
-import data from './data.json';
 import'./Main.css';
 
 class Main extends React.Component {
   render() {
-    let beasts = []
-    data.map((beast, idx) => {
-      beasts.push(
-        <HornedBeast
+    let beasts = this.props.data.map((beast, idx) => {
+      return <HornedBeast
         title={beast.title}
         image_url={beast.image_url}
         description={beast.description}
         key={idx}
+        handleOnShowModal={this.props.handleOnShowModal}
         />
-      )
-      return beast;
-    })
+    });
+
     return (
       <main>
         {beasts}
