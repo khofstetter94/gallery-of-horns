@@ -3,3 +3,19 @@ main {
   flex-wrap: wrap;
   justify-content: space-around;
 }
+
+form {
+  background-color: rgb(205, 229, 255);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  color: rgb(49, 107, 138);
+  border-radius: 12%;
+  padding: 20px;
+  height: fit-content;
+  margin-top: 17px;
+}
+
+Button {
+  margin-top: 20px;
+  margin-left: 135px;
+}
